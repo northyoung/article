@@ -90,5 +90,5 @@ java -XX:+PrintGCDetails -XX:+UseConcMarkSweepGC eu.plumbr.demo.GarbageProducer
 随着这些 GC 事件的发生，你需要额外的关注某些信息，GC 事件是强制所有应用程序线程停止了还是并行的处理了部分事件。  
 
 
-原文链接：http://www.javacodegeeks.com/2015/03/minor-gc-vs-major-gc-vs-full-gc.html
+原文链接：http://www.javacodegeeks.com/2015/03/minor-gc-vs-major-gc-vs-full-gc.html  
 翻译：http://www.importnew.com/author/zhongjianno1 
